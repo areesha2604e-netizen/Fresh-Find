@@ -1,0 +1,111 @@
+[
+    {
+        "name":"Apple",
+        "type":"Season:Autumn"
+    },
+
+    {
+        "name":"Banana",
+        "type":" Season: All Year"
+    },
+
+    {
+        "name":"Orange",
+        "seasson":"Season: Winter"
+    },
+
+
+     {
+        "name":"Strawberry",
+        "type":"Season: Winter"
+    },
+
+     {
+        "name":"Watermelon",
+        "type":"Season: Summer"
+    },
+
+
+     {
+        "name":"Grapes",
+        "type":"Season: Summer"
+    },
+
+
+     {
+        "name":" Carrot",
+        "type":"Season: Winter"
+    },
+
+
+
+     {
+        "name":"Potato",
+        "type":"Season: All Year"
+    },
+
+
+     {
+        "name":"Tomato",
+        "type":"Season: Summer"
+    },
+
+
+
+     {
+        "name":"Spinach",
+        "type":"Season: Winter"
+    },
+
+
+
+     {
+        "name":"Cucumber",
+        "type":"Season: Summer"
+    },
+
+
+
+
+     {
+        "name":"Apple",
+        "type":"Seasson:Summer"
+    },
+
+
+
+     {
+        "name":"Apple",
+        "type":"Seasson:Summer"
+    },
+
+
+
+    {
+        "name":"Tomato",
+        "type":"Seasson:Summer"
+    },
+
+
+    {
+        "name":"Tomato",
+        "type":"Seasson:Summer"
+    },
+
+
+
+
+    {
+        "name":"Tomato",
+        "type":"Seasson:Summer"
+    },
+
+
+
+
+    {
+        "name":"Tomato",
+        "type":"Seasson:Summer"
+    }
+
+]

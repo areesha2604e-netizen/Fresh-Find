@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Wishlist</title>
+</head>
+
+<body>
+
+<h1>My Wishlist ♡</h1>
+
+<div id="wishlist"></div>
+
+<script>
+
+let name = localStorage.getItem("productName");
+let image = localStorage.getItem("productImage");
+
+if (name) {
+
+    document.getElementById("wishlist").innerHTML = `
+
+        <img src="${image}" width="200">
+
+        <h2>${name}</h2>
+
+    `;
+
+} else {
+
+    document.getElementById("wishlist").innerHTML =
+        "<h2>Wishlist Empty ♡</h2>";
+
+}
+
+</script>
+
+</body>
+</html>
