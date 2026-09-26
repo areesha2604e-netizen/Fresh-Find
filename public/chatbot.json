@@ -1,0 +1,210 @@
+[
+    {
+        "tag": "greetings",
+        "patterns": ["Hi", "Hello", "salam", "asalamualaikum"],
+        "response":["Hi! How can i help you today?"]
+
+    },
+    {
+       "Question": "Where is Pick & Go Market?",
+        "response" : "Pick & Go Market is in Sarjani town.",
+        "keywords" : ["Pick & Go", "Location", "Sarjani town"]
+    },
+    {
+        "Question": "Where is Daily Fresh Market?",
+        "response" : "Daily Fresh Market is in Clifton.",
+        "keywords" : ["Daily Fresh Market", "clifton"]
+    },
+    {
+        "Question": "What time does Pick & Go Market opens?",
+        "response": " Opens 8AM AND Closes 9PM",
+        "keywords" : ["Time", "Open", "Closes"]
+    },
+     {
+        "Question": "Where is Harvest Market?",
+        "response" : "Harvest Market is in Dha.",
+        "keywords" : ["Harvest Market", "Location", "Dha"]
+    },
+     {
+        "Question": "Where is Green Valley Market?",
+        "response" : "Green Valley Market is in Gulshan.",
+        "keywords" : ["Green Valley Market", "Location", "Gulshan"]
+    },
+     {
+        "Question": "Where is Natures Basket Market?",
+        "response" : "Natures Basket  Market is in Saddar.",
+        "keywords" : ["Natures Basket Market", "Location", "Saddar"]
+    },
+     {
+        "Question": "Where is Green Leaf Market?",
+        "response" : " Green Leaf Market is in Gulshan-e-Iqbal.",
+        "keywords" : [" Green Leaf Market", "Location", "Gulshan-e-Iqbal"]
+    },
+     {
+        "Question": "Where is Fresh Root Market?",
+        "response" : "Daily Fresh Root is in Malir.",
+        "keywords" : ["Fresh Root Market", "Location", "Malir"]
+    },
+     {
+        "Question": "Where is Green Basket Market?",
+        "response" : "Green Basket Market is in Korangi.",
+        "keywords" : ["Green Basket Market", "Location", "Korangi"]
+    },
+     {
+        "Question": "Where is Fresh Find Market?",
+        "response" : "Fresh Find Market is in Gulistan-e-Johar.",
+        "keywords" : ["Fresh Find Market", "Location", "Gulistan-e-Johar"]
+    },
+     {
+        "Question": "Where is Harvest Hub Market?",
+        "response" : "Harvest Hub Market is in Landhi.",
+        "keywords" : ["Harvest Hub Market", "Location", "Landhi"]
+    },
+     {
+        "Question": "Where is Fresh & Find Market?",
+        "response" : "Fresh & Find Market is in North Nazimabad.",
+        "keywords" : ["Fresh & Find Market", "Location", "North Nazimabad"]
+    },
+     {
+        "Question": "Where is Urban Basket ?",
+        "response" : "Urban Basket is in F.B Area.",
+        "keywords" : ["Urban Basket", "Location", "F.B Area"]
+    },
+     {
+        "Question": "Where is Bloom Market?",
+        "response" : "Bloom  Market is in PECHS.",
+        "keywords" : ["Bloom Market", "Location", "PECHS"]
+    },
+     {
+        "Question": "Where is Sunny Side Market?",
+        "response" : "Sunny Side Market is in Nazimabad.",
+        "keywords" : ["Sunny Side Market", "Location", "Nazimabad"]
+    }, 
+    {
+        "Question": "Where is  Local Cart Market?",
+        "response" : " Local Cart Market is in Orangi Town.",
+        "keywords" : ["Local Cart Market", "Location", "Orangi Town"]
+    },
+    
+  
+  {
+    "question": "Do you deliver?",
+    "keywords": ["delivery", "deliver", "home delivery"],
+    "response": "NO! We do not provide home delivery in Karachi and nearby areas."
+  },
+  
+  {
+    "question": "What vegetables do are there?",
+    "keywords": ["vegetables", "veggies"],
+    "response": "We have tomatoes, potatoes, onions, carrots, spinach, cauliflower, cabbage, green chilies and more."
+  },
+ 
+ 
+  {
+    "question": "Are there organic vegetables?",
+    "keywords": ["organic", "organic vegetables"],
+    "response": "Yes, we offer fresh and locally sourced vegetables."
+  },
+  {
+    "question": "What are your opening hours?",
+    "keywords": ["hours", "opening", "open", "timing", "time"],
+    "response": "seven days a week."
+  },
+  {
+    "question": "How can I place an order?",
+    "keywords": ["order", "place order", "buy", "purchase"],
+    "response": "You can add them in your wishlist and then go to the nearby market to purchase."
+  },
+  {
+    "question": "Can I order online?",
+    "keywords": ["online", "online order", "website"],
+    "response": "No, you can  not order vegetables through our website."
+  },
+  {
+    "question": "How can I contact you?",
+    "keywords": ["contact", "phone", "email", "reach"],
+    "response": "You can contact us through the Contact Us page on our website."
+  },
+  {
+    "question": "Are your vegetables fresh?",
+    "keywords": ["fresh", "quality", "freshness"],
+    "response": "Yes! We provide fresh vegetables sourced from local farmers."
+  },
+  {
+    "question": "Where do your vegetables come from?",
+    "keywords": ["farm", "farms", "farmers", "source"],
+    "response": "Our vegetables are sourced from trusted local farmers."
+  },
+  {
+    "question": "Do you have spinach?",
+    "keywords": ["spinach"],
+    "response": "Yes, fresh spinach is available at Fresh Find."
+  },
+  {
+    "question": "Do you have green chilies?",
+    "keywords": ["green chilies", "green chilli", "chili", "chilli"],
+    "response": "Yes, fresh green chilies are available."
+  },
+  {
+    "question": "Thank you",
+    "keywords": ["thank", "thanks", "thank you"],
+    "response": "You're welcome! 🥬 Thank you for choosing Fresh Find!"
+  },
+  {"Question": "What time does Daily Fresh Market opens?",
+        "response": " Opens 6AM AND Closes 7AM",
+        "keywords" : ["Time", "Open", "Closes"]
+      },
+       {"Question": "What time does Harvest  Market opens?",
+        "response": " Opens 7AM AND Closes 8AM",
+        "keywords" : ["Time", "Open", "Closes"]
+      },
+       {"Question": "What time does Green Valley Market opens?",
+        "response": " Opens 8AM AND Closes 9AM",
+        "keywords" : ["Time", "Open", "Closes"]
+      },
+       {"Question": "What time does Natures Basket Market opens?",
+        "response": " Opens 9AM AND Closes 10AM",
+        "keywords" : ["Time", "Open", "Closes"]
+      },
+       {"Question": "What time does Green Leaf Market opens?",
+        "response": " Opens 10AM AND Closes 11AM",
+        "keywords" : ["Time", "Open", "Closes"]
+      },
+       {"Question": "What time does Fresh Root  Market opens?",
+        "response": " Opens 11AM AND Closes 12PM",
+        "keywords" : ["Time", "Open", "Closes"]
+      },
+       {"Question": "What time does Green Basket  Market opens?",
+        "response": " Opens 12PM AND Closes 1PM",
+        "keywords" : ["Time", "Open", "Closes"]
+      },
+       {"Question": "What time does Fresh Find  Market opens?",
+        "response": " Opens 1PM AND Closes 2PM",
+        "keywords" : ["Time", "Open", "Closes"]
+      },
+       {"Question": "What time does Harvest Hub Market opens?",
+        "response": " Opens 3PM AND Closes 4PM",
+        "keywords" : ["Time", "Open", "Closes"]
+      },
+       {"Question": "What time does Fresh & Find Market opens?",
+        "response": " Opens 4PM AND Closes 5PM",
+        "keywords" : ["Time", "Open", "Closes"]
+      },
+       {"Question": "What time does Urban Basket opens?",
+        "response": " Opens 5PM AND Closes 6PM",
+        "keywords" : ["Time", "Open", "Closes"]
+      },
+       {"Question": "What time does  Bloom Market opens?",
+        "response": " Opens 6PM AND Closes 7PM",
+        "keywords" : ["Time", "Open", "Closes"]
+      },
+       {"Question": "What time does Sunny Side Market opens?",
+        "response": " Opens 7PM AND Closes 8PM",
+        "keywords" : ["Time", "Open", "Closes"]
+      },
+       {"Question": "What time does Local Cart Market opens?",
+        "response": " Opens 8PM AND Closes 9PM",
+        "keywords" : ["Time", "Open", "Closes"]
+      }
+
+]

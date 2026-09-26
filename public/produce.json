@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "category": "Fruit",
+    "season": "All Year",
+    "image": "./images/Apple.png",
+    "description": "Crisp and juicy fresh red apples rich in fiber."
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "category": "Fruit",
+    "season": "All Year",
+    "image": "./images/banana.png",
+    "description": "Rich in potassium, fresh organic yellow bananas."
+  },
+  {
+    "id": 3,
+    "name": "Blueberry",
+    "category": "Fruit",
+    "season": "Summer",
+    "image": "./images/blueberry.png",
+    "description": "Sweet, antioxidant-rich fresh blue berries."
+  },
+  {
+    "id": 4,
+    "name": "Broccoli",
+    "category": "Vegetable",
+    "season": "Winter",
+    "image": "./images/brokili.png",
+    "description": "Nutritious green broccoli rich in vitamins."
+  },
+  {
+    "id": 5,
+    "name": "Carrot",
+    "category": "Vegetable",
+    "season": "Winter",
+    "image": "./images/carot.png",
+    "description": "Crunchy organic orange carrots rich in Vitamin A."
+  },
+  {
+    "id": 6,
+    "name": "Cherry",
+    "category": "Fruit",
+    "season": "Summer",
+    "image": "./images/cherry.png",
+    "description": "Sweet and juicy fresh red cherries."
+  },
+  {
+    "id": 7,
+    "name": "Coconut",
+    "category": "Fruit",
+    "season": "All Year",
+    "image": "./images/coconut.png",
+    "description": "Fresh tropical coconut with refreshing water."
+  },
+  {
+    "id": 8,
+    "name": "Corn",
+    "category": "Vegetable",
+    "season": "Summer",
+    "image": "./images/corne.png",
+    "description": "Sweet yellow corn, fresh from the farm."
+  },
+  {
+    "id": 9,
+    "name": "Cucumber",
+    "category": "Vegetable",
+    "season": "Summer",
+    "image": "./images/cucumber.png",
+    "description": "Hydrating and crisp fresh green cucumber."
+  },
+  {
+    "id": 10,
+    "name": "Dragon Fruit",
+    "category": "Fruit",
+    "season": "Summer",
+    "image": "./images/dragon.png",
+    "description": "Exotic pink dragon fruit filled with nutrients."
+  },
+  {
+    "id": 11,
+    "name": "Cauliflower",
+    "category": "Vegetable",
+    "season": "Winter",
+    "image": "./images/flower.png",
+    "description": "Fresh white cauliflower heads rich in nutrients."
+  },
+  {
+    "id": 12,
+    "name": "Grapes",
+    "category": "Fruit",
+    "season": "Summer",
+    "image": "./images/grapes.png",
+    "description": "Sweet and juicy fresh green and purple grapes."
+  },
+  {
+    "id": 13,
+    "name": "Mango",
+    "category": "Fruit",
+    "season": "Summer",
+    "image": "./images/mango.png",
+    "description": "Delicious sweet king of fruits, fresh yellow mangoes."
+  },
+  {
+    "id": 14,
+    "name": "Onion",
+    "category": "Vegetable",
+    "season": "All Year",
+    "image": "./images/onion.png",
+    "description": "Fresh red onions essential for daily cooking."
+  },
+  {
+    "id": 15,
+    "name": "Orange",
+    "category": "Fruit",
+    "season": "Winter",
+    "image": "./images/orange.png",
+    "description": "Juicy citrus oranges rich in Vitamin C."
+  },
+  {
+    "id": 16,
+    "name": "Peach",
+    "category": "Fruit",
+    "season": "Summer",
+    "image": "./images/peach.png",
+    "description": "Soft and sweet fresh seasonal peaches."
+  },
+  {
+    "id": 17,
+    "name": "Pineapple",
+    "category": "Fruit",
+    "season": "Summer",
+    "image": "./images/pieapple.png",
+    "description": "Tangy and sweet tropical pineapple."
+  },
+  {
+    "id": 18,
+    "name": "Potato",
+    "category": "Vegetable",
+    "season": "All Year",
+    "image": "./images/potato.png",
+    "description": "Fresh organic potatoes perfect for meals."
+  },
+  {
+    "id": 19,
+    "name": "Spinach",
+    "category": "Vegetable",
+    "season": "Winter",
+    "image": "./images/spanish.png",
+    "description": "Healthy green spinach rich in iron."
+  },
+  {
+    "id": 20,
+    "name": "Strawberry",
+    "category": "Fruit",
+    "season": "Winter",
+    "image": "./images/staberry.png",
+    "description": "Sweet and ripe red strawberries."
+  },
+  {
+    "id": 21,
+    "name": "Tomato",
+    "category": "Vegetable",
+    "season": "All Year",
+    "image": "./images/tomato.png",
+    "description": "Fresh red ripe tomatoes rich in antioxidants."
+  }
+]

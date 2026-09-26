@@ -1,0 +1,109 @@
+[
+    {
+    "name":"Daily Fresh Market",
+    "place":"Clifton",
+    "time":"5:00 AM - 6:00 AM",
+    "day":"Mon",
+    "type":"vegetable"
+},
+
+    {
+    "name":"Harvest Market",
+    "place":"Dha",
+    "time":"6:00 AM - 7:00 AM",
+     "day":"Tues",
+    "type":"fruit"
+},
+
+    {
+    "name":" Green Valley Market",
+    "place":"Gulshan",
+    "time":"7:00 AM - 8:00 AM",
+     "day":"wed",
+    "type":"vegetable"
+},
+{
+    "name":" Natures Basket",
+    "place":"Saddar",
+    "time":"8:00 AM - 9:00 AM",
+     "day":"Thurs",
+    "type":"fruit"
+},
+{
+    "name":"Green Leaf Market",
+    "place":"Gulshan-e-Iqbal",
+    "time":"9:00 AM - 10:00 AM",
+     "day":"fri",
+    "type":"vegetable"
+},
+{
+    "name":"Fresh Find Market",
+    "place":"Gulistan-e-Johar",
+    "time":"10:00 AM - 11:00 AM",
+     "day":"Sat",
+    "type":"fruit"
+},
+{
+    "name":"Fresh Root Market",
+    "place":"Malir",
+    "time":"11:00 PM - 12:00 PM",
+     "day":"Sun",
+    "type":"vegetable"
+},
+{
+    "name":"Harvest Hub Market",
+    "place":"Landhi",
+    "time":"1:00 PM - 2:00 PM",
+     "day":"Mon",
+    "type":"fruit"
+},
+{
+    "name":"Green Basket Market",
+    "place":"Korangi",
+    "time":"2:00 PM - 3:00 PM",
+     "day":"Tues",
+    "type":"vegetable"
+},
+{
+    "name":"Fresh & Find Market",
+    "place":"North Nazimabad",
+    "time":"3:00 PM - 4:00 PM",
+     "day":"Wed",
+    "type":"fruit"
+},
+{
+    "name":"Urban Basket Market",
+    "place":"Federal B area",
+    "time":"4:00 PM - 5:00 PM",
+     "day":"Thurs",
+    "type":"vegetable"
+},
+{
+    "name":"Bloom Market",
+    "place":"PECHS",
+    "time":"5:00 PM - 6:00 PM",
+     "day":"Fri",
+    "type":"fruit"
+},
+{
+    "name":"Sunny Side Market",
+    "place":"Nazimabad",
+    "time":"6:00 PM - 7:00 PM",
+     "day":"Sat",
+    "type":"vegetable"
+},
+{
+    "name":"Local Cart Market",
+    "place":"Orangi town",
+    "time":"7:00 PM - 8:00 PM",
+     "day":"Sun",
+    "type":"fruit"
+},
+{
+    "name":"Pick & Go Market",
+    "place":"Sarjani town",
+    "time":"8:00 PM - 9:00 PM",
+     "day":"Mon",
+    "type":"vegetable"
+}
+]
